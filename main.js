@@ -84,31 +84,31 @@ function my_keydown(e) {
     }
 // Hulk's Face
 if (keyPressed == '65') {
-    newImage(hulk_face.png);
-    console.log("A")
+    newImage("hulk_face.png");
+
 }
 
 // Hulk's Body
 
-if (keyPressed == '66') {
-    newImage(hulk_body.png);
+if (keyPressed == '69') {
+    newImage("hulk_body.png");
 }
 
 // Hulk's Left Hand
 
-if (keyPressed == '67') {
-    newImage(hulk_left_hand.png);
+if (keyPressed == '66') {
+    newImage("hulk_left_hand.png");
 }
 
 // Hulk's Right Hand
 
-if (keyPressed == '68') {
-    newImage(hulk_right_hand.png);
+if (keyPressed == '67') {
+    newImage("hulk_right_hand.png");
 }
-// Hulk's Legs Hand
+// Hulk's Legs
 
-if (keyPressed == '69') {
-    newImage(hulk_legs.png);
+if (keyPressed == '68') {
+    newImage("hulk_legs.png");
 }
 
 // ---
@@ -118,31 +118,31 @@ if (keyPressed == '69') {
 // Ironman's Face
 
 if (keyPressed == '70') {
-    newImage(ironman_face.png);
+    newImage("ironman_face.png");
 }
 
 // Ironman's Body
 
-if (keyPressed == '71') {
-    newImage(ironman_body.png);
+if (keyPressed == '74') {
+    newImage("ironman_body.png");
 }
 
 // Ironman's Left Hand
 
-if (keyPressed == '72') {
-    newImage(ironman_left_hand.png);
+if (keyPressed == '71') {
+    newImage("ironman_left_hand.png");
 }
 
 // Ironman's Right Hand
 
-if (keyPressed == '73') {
-    newImage(ironman_right_hand.png);
+if (keyPressed == '72') {
+    newImage("ironman_right_hand.png");
 }
 
-// Ironman's Legs Hand
+// Ironman's Legs
 
-if (keyPressed == '74') {
-    newImage(ironman_legs.png);
+if (keyPressed == '73') {
+    newImage("ironman_legs.png");
 }
 
 // ---
@@ -152,31 +152,31 @@ if (keyPressed == '74') {
 // Spiderman's Face
 
 if (keyPressed == '75') {
-    newImage(spiderman_face.png);
+    newImage("spiderman_face.png");
 }
 
 // Spiderman's Body
 
-if (keyPressed == '76') {
-    newImage(spiderman_body.png);
+if (keyPressed == '79') {
+    newImage("spiderman_body.png");
 }
 
 // Spiderman's Left Hand
 
-if (keyPressed == '77') {
-    newImage(spiderman_left_hand.png);
+if (keyPressed == '76') {
+    newImage("spiderman_left_hand.png");
 }
 
 // Spiderman's Right Hand
 
-if (keyPressed == '78') {
-    newImage(spiderman_right_hand.png);
+if (keyPressed == '85') {
+    newImage("spiderman_right_hand.png");
 }
 
-// Spiderman's Legs Hand
+// Spiderman's Legs
 
-if (keyPressed == '79') {
-    newImage(spiderman_legs.png);
+if (keyPressed == '78') {
+    newImage("spiderman_legs.png");
 }
 
 // ---
@@ -185,26 +185,26 @@ if (keyPressed == '79') {
 
 // Thor's Face 
 
-if (keyPressed == '80') {
-    newImage(thor_face.png);
+if (keyPressed == '84') {
+    newImage("thor_face.png");
 }
 
 //Mr America's Left Hand
 
 if (keyPressed == '81') {
-    newImage(captain_america_left_hand.png);
+    newImage("captain_america_left_hand.png");
 }
 
 // Thor's Left Hand
 
-if (keyPressed == '82') {
-    newImage(thor_left_hand.png);
+if (keyPressed == '83') {
+    newImage("thor_left_hand.png");
 }
 
 // Thor's Right Hand
 
-if (keyPressed == '83') {
-    newImage(thor_right_hand.png);
+if (keyPressed == '82') {
+    newImage("thor_right_hand.png");
 }
 }
 
